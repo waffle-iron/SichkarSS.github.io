@@ -1,3 +1,4 @@
+[![Waffle.io - Issues in progress](https://badge.waffle.io/SichkarSS/SichkarSS.github.io.png?label=in%20progress&title=In%20Progress)](https://waffle.io/SichkarSS/SichkarSS.github.io?utm_source=badge)
 # GiveTheBallClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
